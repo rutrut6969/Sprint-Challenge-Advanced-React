@@ -1,5 +1,5 @@
 import React from 'react';
-import PlayerCard from './PlayerCard';
+import PlayerCard from './PlayerCard/PlayerCard';
 
 export default function PlayerData(props) {
   return (

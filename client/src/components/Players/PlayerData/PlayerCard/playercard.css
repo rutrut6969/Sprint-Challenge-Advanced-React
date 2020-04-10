@@ -12,7 +12,8 @@
 .player-name {
   color: navy;
 }
-.dark-mode-card {
+
+.dark-mode .card {
   color: white;
   background-color: #181a1f;
 }
