@@ -23,9 +23,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit the `ANSWERS.md` file to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] Why would you use class component over function components (removing hooks from the question)?
+      `Frankly I'm not too sure about this, As far as I've been told functional components are a lot more diverse and powerful. The only usecase I can think of is if you join a team or a project where someone has already been using that, so it'd be easier to just work with what they had rather than completely restarting the entire project.`
 - [ ] Name three lifecycle methods and their purposes.
+      `ComponentDidMount(): Basically when the component mounts somethine gets executed. ComponentDidUpdate(): When the components data changes, or something needs to occur on an update function we use this. ComponentWillUnmount(): This is for when the component unmounts, something gets called or some action is taken.`
 - [ ] What is the purpose of a custom hook?
+      `The purpose of a custom hook is mostly for diversity, and functionality, to keep our normal components neat and DRY`
 - [ ] Why is it important to test our apps?
+      `Testing apps provides better stability for production level apps. It allows us to know what works and what doesn't work.`
 
 ## Project Set Up
 
@@ -44,7 +48,7 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repo).
 - [ ] Add your Project Manager as a Reviewer on the Pull-request.
 - [ ] PM then will count the HW as done by merging the branch back into master.
 

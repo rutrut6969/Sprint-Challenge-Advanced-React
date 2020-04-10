@@ -7,6 +7,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.dark-mode {
+  color: #fff;
+  background-color: #313843;
+}
 
 .App-header {
   background-color: #282c34;
